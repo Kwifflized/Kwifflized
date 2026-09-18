@@ -3,12 +3,12 @@
 </p>
 
 <p align="center">
-    <b>C++ Developer • Windows</b>
+  <b>C++ Developer • Windows</b>
 </p>
 
-<p align="center">
-  <sub>Why is the DataModel not working</sub>
-</p>
+<a href="https://discord.com/users/1191311037685846057" target="_blank">
+  <img src="https://lanyard.cnrad.dev/api/1191311037685846057?bg=0d1117&borderRadius=10px&idleMessage=Test&theme=dark&showDisplayName=true" />
+</a>
 
 <br>
 
