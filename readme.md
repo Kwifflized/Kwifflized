@@ -1,6 +1,4 @@
-<p align="center">
-    ![banner](assets/banner.gif)
-</p>
+![banner](assets/banner.gif)
 
 <p align="center">
     <b>C++ Developer • Windows</b>
