@@ -1,5 +1,5 @@
 <p align="center">
-    # C++ Developer • Windows
+    <b>C++ Developer • Windows</b>
 </p>
 
 <p align="center">
