@@ -6,9 +6,9 @@
   <b>C++ Developer • Windows</b>
 </p>
 
-<a href="https://discord.com/users/1191311037685846057">
-  <img src="https://lanyard.cnrad.dev/api/1191311037685846057?theme=dark&idleMessage=TEST" />
-</a>
+<p align="center">
+  <a href="https://discord.com/users/1191311037685846057"><img src="https://lanyard.cnrad.dev/api/1191311037685846057?    animated=false&animatedDecoration=false&showDisplayName=true&hideDecoration=true&hideTimestamp=true&hideBadges=true&hideSpotify=true&hideProfile=true&hideTag=true&hideStatus=true&idleMessage=One%20of%20my%20most%20producti  ve%20days%20was%20throwing%20away%201000%20lines%20of%20code%20-%20Ken%20Thompson" /></a>
+</p>
 
 <br>
 
