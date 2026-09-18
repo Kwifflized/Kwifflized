@@ -1,4 +1,6 @@
-![banner](assets/banner.gif)
+<p align="center">
+  <img src="assets/banner.gif" alt="banner">
+</p>
 
 <p align="center">
     <b>C++ Developer • Windows</b>
