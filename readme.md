@@ -1,5 +1,5 @@
 <p align="center">
-    ![image](https://media1.tenor.com/m/pOn8TEzZVCsAAAAd/legend-of-hei-hei.gif)
+    ![image](https://media1.tenor.com/m/pOn8TEzZVCsAAAAC/legend-of-hei-hei.gif)
 </p>
 
 <p align="center">
