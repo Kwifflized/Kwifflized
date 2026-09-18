@@ -6,8 +6,8 @@
   <b>C++ Developer • Windows</b>
 </p>
 
-<a href="https://discord.com/users/1191311037685846057" target="_blank">
-  [![Discord Presence](https://lanyard.cnrad.dev/api/1191311037685846057?theme=dark&idleMessage=TEST)](https://discord.com/users/1191311037685846057)
+<a href="https://discord.com/users/1191311037685846057">
+  <img src="https://lanyard.cnrad.dev/api/1191311037685846057?theme=dark&idleMessage=TEST" />
 </a>
 
 <br>
